@@ -32,3 +32,11 @@
 <p>&nbsp;<img align="center" width=100% src="https://github-readme-stats.vercel.app/api?username=bojidardermednjiev&show_icons=true&locale=en" alt="bojidardermednjiev" /></p>
 
 <p><img align="center" width=100%  src="https://github-readme-streak-stats.herokuapp.com/?user=bojidardermednjiev&" alt="bojidardermednjiev" /></p>
+<div align="center">
+  <h2>🐍 Snake eating my contribution 🐍</h2>
+  <br>
+  <img alt="snake eating my contribution" src="">
+  <br>
+  <br>
+  <br>
+</div>
