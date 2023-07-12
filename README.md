@@ -31,9 +31,7 @@
 <p>&nbsp;<img align="center"   src="https://github-readme-stats.vercel.app/api?username=bojidardermednjiev&show_icons=true&locale=en" alt="bojidardermednjiev" /></p>
 <p><img align="center"   src="https://github-readme-streak-stats.herokuapp.com/?user=bojidardermednjiev&" alt="bojidardermednjiev" /></p>
 </div>
-<div>
  <a href="https://git.io/typing-svg">
     <img src="https://readme-typing-svg.herokuapp.com/?lines=🐍+Snake+eating+my+contribution+🐍;&center=true&size=30">
   </a>
-</div>
 ![snake gif](https://github.com/BojidarDermednjiev/BojidarDermednjiev/blob/output/github-contribution-grid-snake.svg)
