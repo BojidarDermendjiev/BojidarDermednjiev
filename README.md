@@ -36,6 +36,7 @@
   <h2>🐍 Snake eating my contribution 🐍</h2>
   <br>
   <img alt="snake eating my contribution" src="">
+  ![snake gif](https://github.com/BojidarDermednjiev/My_personality/blob/output/github-contribution-grid-snake.gif)
   <br>
   <br>
   <br>
