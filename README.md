@@ -4,7 +4,7 @@
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=bojidardermednjiev&label=Profile%20views&color=0e75b6&style=flat" alt="bojidardermednjiev" /> </p>
 
 <p align="left"> <a href="https://twitter.com/" target="blank"><img src="https://img.shields.io/twitter/follow/?logo=twitter&style=for-the-badge" alt="" /></a> </p>
-<p align="center">About me:</p>
+<h2 align="center">About me:</h2>
 - 🌱 I’m currently learning **.Net**
 
 - 💬 Ask me about **C# ,HTML ,CSS, JS, NoSQL, Linux**
