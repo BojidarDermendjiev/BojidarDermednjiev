@@ -33,10 +33,10 @@
 
 <p><img align="center" width=100%  src="https://github-readme-streak-stats.herokuapp.com/?user=bojidardermednjiev&" alt="bojidardermednjiev" /></p>
 <div align="center">
-  <h2>🐍 Snake eating my contribution 🐍</h2>
+   <a href="https://git.io/typing-svg">
+    <img src="https://readme-typing-svg.herokuapp.com/?lines=🐍+Snake+eating+my+contribution+🐍;&center=true&size=30">
+  </a>
   <br>
-  <img alt="snake eating my contribution" src="">
-  ![snake gif](https://github.com/BojidarDermednjiev/My_personality/blob/output/github-contribution-grid-snake.gif)
   <br>
   <br>
   <br>
