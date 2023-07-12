@@ -1,4 +1,8 @@
-<h1 align="center">Hi 👋, I'm Bozhidar</h1>
+<h1 align="center">
+  <a href="https://git.io/typing-svg">
+    <img src="https://readme-typing-svg.herokuapp.com/?lines=Hi+There!+👋;+Myself+Bozhidar!;&center=true&size=30">
+  </a>
+</h1>
 <img align="right" alt="Coding" width=100% src="https://developers.giphy.com/branch/master/static/api-512d36c09662682717108a38bbb5c57d.gif">
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=bojidardermednjiev&label=Profile%20views&color=0e75b6&style=flat" alt="bojidardermednjiev" /> </p>
