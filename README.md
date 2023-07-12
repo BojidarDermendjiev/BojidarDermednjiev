@@ -31,4 +31,4 @@
 
 <p>&nbsp;<img align="center" width=50% src="https://github-readme-stats.vercel.app/api?username=bojidardermednjiev&show_icons=true&locale=en" alt="bojidardermednjiev" /></p>
 
-<p><img align="center" width=100%  src="https://github-readme-streak-stats.herokuapp.com/?user=bojidardermednjiev&" alt="bojidardermednjiev" /></p>
+<p><img align="center" width=60%  src="https://github-readme-streak-stats.herokuapp.com/?user=bojidardermednjiev&" alt="bojidardermednjiev" /></p>
