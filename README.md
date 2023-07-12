@@ -33,5 +33,5 @@
 
 <p><img align="center" width=100%  src="https://github-readme-streak-stats.herokuapp.com/?user=bojidardermednjiev&" alt="bojidardermednjiev" /></p>
 <div align="center">
-<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=44FF37B8&width=435&lines=%F0%9F%90%8D+Snake+eating+my+contribution+%F0%9F%90%8D" alt="Typing SVG" /></a>
+<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&width=435&lines=%F0%9F%90%8D+Snake+eating+my+contribution+%F0%9F%90%8D" alt="Typing SVG" /></a>
 </div>
