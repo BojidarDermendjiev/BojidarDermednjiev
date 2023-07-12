@@ -3,7 +3,7 @@
     <img src="https://readme-typing-svg.herokuapp.com/?lines=Hi+There!+👋;+It's+Bozhidar!;&center=true&size=30">
   </a>
 </h1>
-<img align="right" alt="Coding" width=100% src="https://developers.giphy.com/branch/master/static/api-512d36c09662682717108a38bbb5c57d.gif">
+<img align="right" alt="Coding" width=100% src="https://user-images.githubusercontent.com/22107794/139580686-887df369-edb8-4bc8-b607-4fbf6d7e4866.gif">
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=bojidardermednjiev&label=Profile%20views&color=0e75b6&style=flat" alt="bojidardermednjiev" /> </p>
 
