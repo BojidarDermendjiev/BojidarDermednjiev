@@ -31,7 +31,7 @@
 <p>&nbsp;<img align="center"   src="https://github-readme-stats.vercel.app/api?username=bojidardermednjiev&show_icons=true&locale=en" alt="bojidardermednjiev" /></p>
 <p><img align="center"   src="https://github-readme-streak-stats.herokuapp.com/?user=bojidardermednjiev&" alt="bojidardermednjiev" /></p>
 </div>
-<div >
+<div>
 <a href="https://git.io/typing-svg" ><img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&width=435&lines=%F0%9F%90%8D+Snake+eating+my+contribution+%F0%9F%90%8D" alt="Typing SVG" /></a>
 </div>
 <style>
@@ -39,6 +39,7 @@
     display: flex;
     justify-content: center;
     align-items: center;
+    text-align: center;
   }
 </style>
 ![snake gif](https://github.com/BojidarDermednjiev/BojidarDermednjiev/blob/output/github-contribution-grid-snake.svg)
