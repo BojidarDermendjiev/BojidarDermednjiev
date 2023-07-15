@@ -34,7 +34,6 @@
   <br>
   <br>
 </div>
-
-[comment]: <img src="https://raw.githubusercontent.com/milaabl/milaabl-readme/preview/github-contribution-grid-snake-dark.svg" />
-<img src="https://raw.githubusercontent.com/milaabl/milaabl-readme/703bfa29eaa631ad12fcf9c11048968c1943f5c4/github-contribution-grid-snake-dark.svg" alt="Snake" />
+![](https://raw.githubusercontent.com/aelassas/aelassas/output/github-contribution-grid-snake.svg#gh-light-mode-only)
+![](https://raw.githubusercontent.com/aelassas/aelassas/output/github-contribution-grid-snake-dark.svg#gh-dark-mode-only)
 
