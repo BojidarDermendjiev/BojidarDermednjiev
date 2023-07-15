@@ -35,5 +35,6 @@
   <br>
 </div>
 
-![snake gif](https://github.com/BojidarDermednjiev/BojidarDermednjiev/blob/output/github-contribution-grid-snake-dark.svg)
+[comment]: <img src="https://raw.githubusercontent.com/milaabl/milaabl-readme/preview/github-contribution-grid-snake-dark.svg" />
+<img src="https://raw.githubusercontent.com/milaabl/milaabl-readme/703bfa29eaa631ad12fcf9c11048968c1943f5c4/github-contribution-grid-snake-dark.svg" alt="Snake" />
 
