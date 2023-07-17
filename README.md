@@ -35,4 +35,6 @@
   <br>
 </div>
 
-![](https://raw.githubusercontent.com/BojidarDermednjiev/BojidarDermednjiev/output/github-contribution-grid-snake-dark.svg#gh-dark-mode-only)
+![](https://raw.githubusercontent.com/BojidarDermednjiev/BojidarDermednjiev-readme/preview/github-contribution-grid-snake-dark.svg)
+
+
