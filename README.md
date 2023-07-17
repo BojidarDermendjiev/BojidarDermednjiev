@@ -35,6 +35,6 @@
   <br>
 </div>
 
-![](https://raw.githubusercontent.com/BojidarDermednjiev/BojidarDermednjiev/outout/github-contribution-grid-snake-dark-dark.svg)
+![](https://raw.githubusercontent.com/BojidarDermednjiev/BojidarDermednjiev/output/github-contribution-grid-snake-dark.svg)
 
 
