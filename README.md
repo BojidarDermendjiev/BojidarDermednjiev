@@ -18,7 +18,7 @@
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://dev.to/bojidardermednjiev" target="_blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/devto.svg" alt="bojidardermednjiev" height="30" width="40" /></a>
-<a href="https://linkedin.com/in/божидар дерменджиев" target="_blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="божидар дерменджиев" height="30" width="40" /></a>
+<a href="https://www.linkedin.com/in/bozhidar-dermendzhiev-530441277/" target="_blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="божидар дерменджиев" height="30" width="40" /></a>
 <a href="https://fb.com/божидар мигленов дерменджиев" target="_blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="божидар мигленов дерменджиев" height="30" width="40" /></a>
 <a href="https://instagram.com/bojidar_dermendjiew" target="_blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="bojidar_dermendjiew" height="30" width="40" /></a>
 <a href="https://discord.gg/bojidar_dermendjiew" target="_blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/discord.svg" alt="bojidar_dermendjiew" height="30" width="40" /></a>
